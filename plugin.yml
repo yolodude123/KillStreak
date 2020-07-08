@@ -1,4 +1,4 @@
-name: KillStreak
+name: KillStreaks
 version: 1.0.0
 main: Inaayat\KillStreak\KillStreak
 api: [3.0.0]
